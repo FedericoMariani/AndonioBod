@@ -1,8 +1,0 @@
-{
-  "name": "AndonioBod",
-  "version": "1.0.0",
-  "description": "Andonio in forma digitale",
-  "main": "bot.js",
-  "author": "Andonio",
-  "dependencies": {}
-}
